@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate Algorithms Developer. Fascinated by deep neural networks and the way they are incorporated into our daily life.</h2>
 <h3 align="left">Stats</h3>
-https://github-readme-stats.vercel.app/api?username=io-commits&show_icons=true&theme=dracula
+!https://github-readme-stats.vercel.app/api?username=io-commits&show_icons=true&theme=dracula
 
 <h3 align="left">Languages:</h3>
 <p align="left">
