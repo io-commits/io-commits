@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Itai</h1>
 
 <h2 align="center">A passionate Algorithms Developer. Fascinated by deep neural networks and the way they are incorporated into our daily life.</h2>
-<h3 align="left">Stats</h3>
 
-![io-commits' GitHub stats](https://github-readme-stats.vercel.app/api?username=io-commits&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=io-commits&layout=compact)
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -87,3 +87,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itai-ofir-815042101/" height="30" width="40" />
     </a>
 </p>
+
+<h3 align="left">Stats</h3>
+
+![io-commits' GitHub stats](https://github-readme-stats.vercel.app/api?username=io-commits&show_icons=true&theme=dracula)
+
