@@ -20,6 +20,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a> 
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=io-commits&layout=compact)
+
 <h4 align="left">Python Libraries:</h4>
 <p align="left">
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
@@ -41,8 +44,6 @@
         <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="80" height="40"/>
     </a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=io-commits&layout=default)
 
 <h4 align="left">Python Visualization:</h4>
 <p align="left">
