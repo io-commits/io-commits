@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate Algorithms Developer. Fascinated by deep neural networks and the way they are incorporated into our daily life.</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=io-commits&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=io-commits&layout=compact&count_private=true&token=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)
 
 
 <h3 align="left">Languages:</h3>
