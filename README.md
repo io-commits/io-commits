@@ -2,9 +2,6 @@
 
 <h2 align="center">A passionate Algorithms Developer. Fascinated by deep neural networks and the way they are incorporated into our daily life.</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=io-commits&layout=compact)
-
-
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -44,6 +41,8 @@
         <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="80" height="40"/>
     </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=io-commits&layout=default)
 
 <h4 align="left">Python Visualization:</h4>
 <p align="left">
