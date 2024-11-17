@@ -4,7 +4,7 @@
 
 <h2>Personal Projects Includes:</h2>
 
-| Histopathology For Cancer Cells<img src="assets/histopathology_segmentation.png" width="100"/> | <img src="assets/image2.png" width="100"/> | <img src="assets/image3.png" width="100"/> |
+| Histopathology For Cancer Cells\n<img src="assets/histopathology_segmentation.png" width="300"/> | <img src="assets/image2.png" width="100"/> | <img src="assets/image3.png" width="100"/> |
 |---|---|---|
 | <img src="assets/image4.png" width="100"/> | <img src="assets/image5.png" width="100"/> | <img src="assets/image6.png" width="100"/> |
 | <img src="assets/image7.png" width="100"/> | <img src="assets/image8.png" width="100"/> | <img src="assets/image9.png" width="100"/> |
