@@ -38,6 +38,17 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
 </p>
+
+<h4 align="left">Python Visualization:</h4>
+<p align="left">
+    <a href="https://holoviz.org/" target="_blank" rel="noreferrer">
+        <img src="https://holoviz.org/_static/holoviz-logo-unstacked.svg" alt="holoviz" width="40" height="40"/>
+    </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://matplotlib.org/_static/logo_light.svg" alt="matplotlib" width="80" height="40"/>
+    </a>
+</p>
+
 <h3 align="left">Operating Systems:</h3>
 <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
