@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Itai</h1>
 
-<h3 align="center">A passionate Algorithms Developer from Israel. Fascinated by how deep neural networks and the way they are incorporated into our daily life.</h3>
+<h2 align="center">A passionate Algorithms Developer. Fascinated by deep neural networks and the way they are incorporated into our daily life.</h2>
+<h3 align="left">Stats</h3>
+<p align="left">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=io-commits)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -36,6 +40,9 @@
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="80" height="40"/>
     </a>
 </p>
 
