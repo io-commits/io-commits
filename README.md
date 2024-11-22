@@ -6,7 +6,7 @@
 
 | Histopathology For Cancer Cells<br><img src="assets/histopathology_segmentation.png" width="300"/> | Ukraine Russia Twit Generator<br><img src="assets/ukraine_russia_conflict_twit_generator.png" width="300"/> | Stock Stability Estimator<img src="assets/stock_stability.png" width="300"/> |
 |---|---|---|
-
+| Graph Cut Based Semantic Segmentation<br><img src="assets/segmented.png" width="300"/> |
 
 
 <h3 align="left">Languages:</h3>
