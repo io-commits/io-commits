@@ -4,9 +4,10 @@
 
 <h2>Personal Projects Includes:</h2>
 
-| Histopathology For Cancer Cells<br><img src="assets/histopathology_segmentation.png" width="300" height="200"/> | Ukraine Russia Twit Generator<br><img src="assets/ukraine_russia_conflict_twit_generator.png" width="300" height="200"/> | Stock Stability Estimator<img src="assets/stock_stability.png" width="300" height="200" /> |
-|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Graph Cut Based Semantic Segmentation<br><img src="assets/segmented.png" width="300" height="200" />            | Steiner Graphs<br><img src="assets/steiner_graph.png" width="300" height="200" />                                        |                                                                                            |
+| Histopathology For Cancer Cells<br><img src="assets/histopathology_segmentation.png" width="300" height="200"/> | Ukraine Russia Twit Generator<br><img src="assets/ukraine_russia_conflict_twit_generator.png" width="300" height="200"/> | Stock Stability Estimator<img src="assets/stock_stability.png" width="300" height="200" />    |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Graph Cut Based Semantic Segmentation<br><img src="assets/segmented.png" width="300" height="200" />            | Steiner Graphs<br><img src="assets/steiner_graph.png" width="300" height="200" />                                        | Sun System Cosmic Simulator<br><img src="assets/space_debris.png" width="300" height="200" /> |
+| AIES Cinema <img src="assets/aies_cinema.png" width="300" height="200">                                         | Facebook Clique Analyzer <img src="assets/clique_analyzer.png" width="300" height="200">                                 | Family Expense Platform <img src="assets/fammilion.png" width="300" height="200">             |
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -53,11 +54,24 @@
 
 <h4 align="left">Python Visualization:</h4>
 <p align="left">
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://matplotlib.org/_static/logo_light.svg" alt="matplotlib" width="80" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/>
+    </a>
+    <a href="https://holoviews.org/" target="_blank" rel="noreferrer">
+        <img src="https://holoviews.org/_static/logo_horizontal.png" alt="holoviews" width="80" height="40"/>
+    </a>
+</p>
+
+<h4 align="left">Python Applications:</h4>
+<p align="left">
     <a href="https://holoviz.org/" target="_blank" rel="noreferrer">
         <img src="https://holoviz.org/_static/holoviz-logo-unstacked.svg" alt="holoviz" width="40" height="40"/>
     </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://matplotlib.org/_static/logo_light.svg" alt="matplotlib" width="80" height="40"/>
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/0*j8sJVfiGI2NF4EZP.png" alt="streamlit" width="80" height="40"/>
     </a>
 </p>
 
