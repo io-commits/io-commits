@@ -107,8 +107,3 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itai-ofir-815042101/" height="30" width="40" />
     </a>
 </p>
-
-<h3 align="left">Stats</h3>
-
-![io-commits' GitHub stats](https://github-readme-stats.vercel.app/api?username=io-commits&show_icons=true&theme=dracula)
-
